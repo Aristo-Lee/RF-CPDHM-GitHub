@@ -1,6 +1,6 @@
 from __future__ import print_function
 import matplotlib
-matplotlib.use('TkAgg')  # 或 'Qt5Agg', 'Agg' 等，具体视系统而定
+matplotlib.use('TkAgg') 
 import matplotlib.pyplot as plt
 # %matplotlib inline
 
